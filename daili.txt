@@ -1,8 +1,14 @@
 # myself
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/beck-8/sub-urls/refs/heads/main/sub.txt
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/beck-8/sub-urls/refs/heads/main/sub.txt#1
 
 # 周润发
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml#2
 
 # 帅帅
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/shuaidaoya/FreeNodes/refs/heads/main/nodes/all.yaml
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/shuaidaoya/FreeNodes/refs/heads/main/nodes/all.yaml#3
+
+https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml#4
+https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub#5
+https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt#6
+# https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt#7
+# https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt#8
