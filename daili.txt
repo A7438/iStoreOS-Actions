@@ -12,12 +12,11 @@ https://v6.gh-proxy.org/https://raw.githubusercontent.com/xiaoji235/airport-free
 https://v6.gh-proxy.org/https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml#9
 https://v6.gh-proxy.org/https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml#10
 
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml#11
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml#12
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml#13
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/README.md#14
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml#15
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml#16
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt#17
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash#18
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml#19
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml#11
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml#12
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/README.md#13
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml#14
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml#15
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt#16
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash#17
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml#18
