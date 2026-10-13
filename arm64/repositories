@@ -7,10 +7,6 @@ src/gz openwrt_packages https://downloads.openwrt.org/releases/25.12.5/packages/
 src/gz openwrt_routing https://downloads.openwrt.org/releases/25.12.5/packages/aarch64_generic/routing
 src/gz openwrt_telephony https://downloads.openwrt.org/releases/25.12.5/packages/aarch64_generic/telephony
 
-## iStoreOS 官方源（补充第三方插件包）
-src/gz istore https://fw.koolcenter.com/iStoreOS/ib/armsr/packages
-src/gz istore_luci https://fw.koolcenter.com/iStoreOS/ib/armsr/luci
-
 ## This is the local package repository, do not remove!
 src imagebuilder file:packages
 option check_signature
